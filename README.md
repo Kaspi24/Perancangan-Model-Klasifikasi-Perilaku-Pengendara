@@ -4,6 +4,6 @@ Repository ini berisi implementasi sistem klasifikasi perilaku pengendara menggu
 ##  Overview
 
 Penelitian ini mengembangkan model deep learning untuk mengklasifikasikan pola perilaku pengendara berdasarkan kategori kelas. Metode yang digunakan merupakan:
--**Pretrained Model**: MobileNetV2, ResNet18, dan VGG11 
--**Hyperparameter Tuning**: epoch, batch_size, learning_rate, optimizer
--**Evaluation Metrics**: accuracy, precision, recall, f1-score, confusion matrix
+-  **Pretrained Model**: MobileNetV2, ResNet18, dan VGG11 
+-  **Hyperparameter Tuning**: epoch, batch_size, learning_rate, optimizer
+-  **Evaluation Metrics**: accuracy, precision, recall, f1-score, confusion matrix
